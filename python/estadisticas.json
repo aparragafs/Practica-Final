@@ -1,0 +1,113 @@
+{
+  "solteros": 8,
+  "casados": 7,
+  "edadMedia": 31.1,
+  "desviacionEdad": 4.7,
+  "proyectosActivos": 9,
+  "proyectosFinalizados": 2,
+  "proyectosTotal": 11,
+  "topAntiguedad": [
+    {
+      "nombre": "Pedro Jiménez",
+      "anios": 10.4
+    },
+    {
+      "nombre": "Carlos Ruiz",
+      "anios": 9.6
+    },
+    {
+      "nombre": "María López",
+      "anios": 8.0
+    },
+    {
+      "nombre": "Sergio Ortega",
+      "anios": 6.8
+    },
+    {
+      "nombre": "Juan Pérez",
+      "anios": 6.2
+    }
+  ],
+  "topRecientes": [
+    {
+      "nombre": "Juan Martinez",
+      "fechaAlta": "10/04/2026"
+    },
+    {
+      "nombre": "Adrian Parraga",
+      "fechaAlta": "10/04/2026"
+    },
+    {
+      "nombre": "Julian Saez",
+      "fechaAlta": "09/04/2026"
+    },
+    {
+      "nombre": "Adrian Parraga",
+      "fechaAlta": "08/04/2026"
+    },
+    {
+      "nombre": "Raul Lopez",
+      "fechaAlta": "08/04/2026"
+    }
+  ],
+  "altasPorAnio": {
+    "2015": 1,
+    "2016": 1,
+    "2018": 1,
+    "2019": 1,
+    "2020": 1,
+    "2021": 2,
+    "2022": 1,
+    "2023": 1,
+    "2024": 1,
+    "2026": 5
+  },
+  "proyectosPorLugar": {
+    "Madrid": 6,
+    "Valencia": 2,
+    "Cuenca": 2,
+    "Barcelona": 1
+  },
+  "proyectosPorEmpleado": {
+    "1": 2,
+    "2": 1
+  },
+  "topProyectos": [
+    {
+      "descripcion": "Proyecto Web",
+      "empleados": 3
+    },
+    {
+      "descripcion": "Proyecto Web 2",
+      "empleados": 1
+    }
+  ],
+  "proyectosSinAsignados": [
+    "Implantacion ERP",
+    "Migración",
+    "Aplicacion Movil",
+    "Proyecto Inteligencia Artificial",
+    "IA 2",
+    "Proyecto CRM"
+  ],
+  "mayorCrecimiento": [
+    {
+      "anio": 2026,
+      "variacion": 3
+    },
+    {
+      "anio": 2021,
+      "variacion": 2
+    }
+  ],
+  "mayorDecrecimiento": [
+    {
+      "anio": 2017,
+      "variacion": 0
+    },
+    {
+      "anio": 2025,
+      "variacion": 0
+    }
+  ]
+}
