@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine
 
 usuario = "root"
-password = ""
+password = "root"
 host = "localhost"
 puerto = 3306
 bbdd = "PRACTICA"

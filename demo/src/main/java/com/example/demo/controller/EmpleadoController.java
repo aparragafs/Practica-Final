@@ -67,5 +67,5 @@ public class EmpleadoController {
 
         empleadoService.darDeBajaEmpleado(id);
         return ResponseEntity.ok().build();
-    }
+    } 
 }

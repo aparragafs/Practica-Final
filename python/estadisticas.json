@@ -1,12 +1,20 @@
 {
-  "solteros": 8,
-  "casados": 7,
-  "edadMedia": 31.1,
-  "desviacionEdad": 4.7,
-  "proyectosActivos": 9,
-  "proyectosFinalizados": 2,
-  "proyectosTotal": 11,
+  "solteros": 10,
+  "casados": 9,
+  "edadMedia": 33.0,
+  "desviacionEdad": 4.9,
+  "proyectosActivos": 1,
+  "proyectosFinalizados": 11,
+  "proyectosTotal": 12,
   "topAntiguedad": [
+    {
+      "nombre": "Raúl Domínguez",
+      "anios": 13.8
+    },
+    {
+      "nombre": "David Santos",
+      "anios": 12.1
+    },
     {
       "nombre": "Pedro Jiménez",
       "anios": 10.4
@@ -16,97 +24,101 @@
       "anios": 9.6
     },
     {
-      "nombre": "María López",
-      "anios": 8.0
-    },
-    {
-      "nombre": "Sergio Ortega",
-      "anios": 6.8
-    },
-    {
-      "nombre": "Juan Pérez",
-      "anios": 6.2
+      "nombre": "Javier Molina",
+      "anios": 8.5
     }
   ],
   "topRecientes": [
     {
-      "nombre": "Juan Martinez",
-      "fechaAlta": "10/04/2026"
-    },
-    {
       "nombre": "Adrian Parraga",
-      "fechaAlta": "10/04/2026"
+      "fechaAlta": "14/04/2026"
     },
     {
-      "nombre": "Julian Saez",
-      "fechaAlta": "09/04/2026"
+      "nombre": "Natalia Vargas",
+      "fechaAlta": "20/02/2024"
     },
     {
-      "nombre": "Adrian Parraga",
-      "fechaAlta": "08/04/2026"
+      "nombre": "Elena Castro",
+      "fechaAlta": "08/01/2024"
     },
     {
-      "nombre": "Raul Lopez",
-      "fechaAlta": "08/04/2026"
+      "nombre": "Patricia Cano",
+      "fechaAlta": "01/06/2023"
+    },
+    {
+      "nombre": "Lucía Fernández",
+      "fechaAlta": "10/04/2023"
     }
   ],
   "altasPorAnio": {
+    "2012": 1,
+    "2014": 1,
     "2015": 1,
     "2016": 1,
+    "2017": 1,
     "2018": 1,
-    "2019": 1,
-    "2020": 1,
+    "2019": 2,
+    "2020": 2,
     "2021": 2,
-    "2022": 1,
-    "2023": 1,
-    "2024": 1,
-    "2026": 5
+    "2022": 2,
+    "2023": 2,
+    "2024": 2,
+    "2026": 1
   },
   "proyectosPorLugar": {
     "Madrid": 6,
-    "Valencia": 2,
-    "Cuenca": 2,
-    "Barcelona": 1
+    "Barcelona": 2,
+    "Sevilla": 1,
+    "Valencia": 1,
+    "Bilbao": 1,
+    "Zaragoza": 1
   },
   "proyectosPorEmpleado": {
-    "1": 2,
-    "2": 1
+    "1": 11,
+    "2": 5
   },
   "topProyectos": [
     {
-      "descripcion": "Proyecto Web",
+      "descripcion": "Portal RRHH",
+      "empleados": 4
+    },
+    {
+      "descripcion": "Renovación Web Corporativa",
       "empleados": 3
     },
     {
-      "descripcion": "Proyecto Web 2",
-      "empleados": 1
+      "descripcion": "Aplicación Comercial",
+      "empleados": 3
+    },
+    {
+      "descripcion": "Migración SAP",
+      "empleados": 2
+    },
+    {
+      "descripcion": "Cuadro de Mando",
+      "empleados": 2
     }
   ],
   "proyectosSinAsignados": [
-    "Implantacion ERP",
-    "Migración",
-    "Aplicacion Movil",
-    "Proyecto Inteligencia Artificial",
-    "IA 2",
-    "Proyecto CRM"
+    "Ejemplo"
   ],
   "mayorCrecimiento": [
     {
-      "anio": 2026,
-      "variacion": 3
+      "anio": 2021,
+      "variacion": 2
     },
     {
-      "anio": 2021,
+      "anio": 2024,
       "variacion": 2
     }
   ],
   "mayorDecrecimiento": [
     {
-      "anio": 2017,
-      "variacion": 0
+      "anio": 2026,
+      "variacion": -1
     },
     {
-      "anio": 2025,
+      "anio": 2013,
       "variacion": 0
     }
   ]
